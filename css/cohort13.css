@@ -1,0 +1,35 @@
+* {
+    color: maroon;
+  }
+
+  .odd {
+    text-align: left;
+    color: red;
+  }
+
+  .even {
+    text-align: right;
+    color: blue;
+  }
+
+  div > p {
+    color: green;
+  }
+
+  #charlesJones {
+    font-size: 40px;
+    font-weight: bold;
+    color: purple;
+  }
+
+  #uniqueHeader {
+    color: red;
+  }
+
+  #kemigisha {
+    background-color: green;
+  }
+
+  p {
+    color: green;
+  }
